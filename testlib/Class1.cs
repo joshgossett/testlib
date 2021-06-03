@@ -1,10 +1,8 @@
-﻿namespace testlib
+﻿using System;
+
+namespace testlib
 {
     public class Class1
     {
-        public Class1()
-        {
-            
-        }
     }
 }
